@@ -15,7 +15,7 @@ Projeto desenvolvido como parte do curso Udemy, explorando conceitos como **Seri
 ## 🔧 Como Executar o Projeto  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/midnightbr/CalculadoraIMC.git
    ```
 2. Abra o projeto no **Android Studio**.  
 3. Compile e execute o aplicativo em um **emulador** ou **dispositivo físico**.  
