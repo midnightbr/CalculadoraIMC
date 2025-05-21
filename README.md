@@ -1,7 +1,3 @@
-Aqui está um **README.md** interessante para o seu projeto de cálculo de IMC em Kotlin:
-
----
-
 # 📱 Calculadora de IMC - Kotlin  
 Projeto desenvolvido como parte do curso Udemy, explorando conceitos como **Serializable (Java) e Parcelable (Kotlin)**, além de manipulação de **Activities** para transição de telas e passagem de dados entre elas.
 
@@ -26,7 +22,3 @@ Projeto desenvolvido como parte do curso Udemy, explorando conceitos como **Seri
 
 ## 📝 Aprendizado  
 Este projeto foca no domínio da **troca de dados entre Activities** e na utilização de **parceláveis** para otimizar desempenho ao transferir informações.  
-
----
-
-Caso queira adicionar algo, posso refinar ou personalizar melhor! 🚀😃
